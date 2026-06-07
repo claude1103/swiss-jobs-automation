@@ -33,15 +33,29 @@ jobs:
       env:
         ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
         ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       run: python job_finder.py
 
-    # Step 5: Save the updated jobs_report.md file back into your repository
+    # Step 5: Send the job report via email
+    - name: Send email report
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        secure: true
+        username: ${{ secrets.MAIL_USERNAME }} # Your Gmail address
+        password: ${{ secrets.MAIL_PASSWORD }} # Your Gmail App Password
+        subject: "🇨🇭 Weekly Swiss Regulatory & AI Jobs Report"
+        to: ${{ secrets.MAIL_TO }}             # The email address you want to send it to
+        from: "Swiss Jobs Scraper"
+        html_body: file://jobs_report.md
+        convert_markdown: true
+
+    # Step 6: Save the updated jobs_report.md file back into your repository
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add jobs_report.md
-        # The 'git diff-index' check ensures we only commit if there are actual updates.
-        # This prevents the action from throwing an error if there are no new jobs found.
         git diff-index --quiet HEAD || git commit -m "Auto-update: daily jobs report"
         git push
