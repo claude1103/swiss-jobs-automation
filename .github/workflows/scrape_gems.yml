@@ -2,6 +2,9 @@ name: Scheduled Gemstone Scraper
 
 # This workflow runs automatically every day, and can also be triggered manually
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs every day at 08:30 UTC (10:30 AM in Switzerland during daylight savings, 09:30 AM in winter)
     - cron: '30 8 * * *'
