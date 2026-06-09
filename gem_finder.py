@@ -385,6 +385,10 @@ def parse_listing_from_serp(item):
             seller_name = "Earth's Treasury"
         elif "gemsny.com" in domain:
             seller_name = "GemsNY"
+        elif "ricardo.ch" in domain:
+            seller_name = "Ricardo.ch"
+        elif "interencheres.com" in domain:
+            seller_name = "Interencheres"
         else:
             seller_name = domain.split(".")[0].capitalize()
     except Exception:
@@ -602,7 +606,7 @@ def generate_html_report(gems, today_date):
         <div class="summary-box">
             <h3>📈 Market Summary</h3>
             <p style="margin: 0; font-size: 14px; line-height: 1.5;">
-                Today we analyzed gemstone listings from major marketplaces including Gem Rock Auctions, The Natural Sapphire Company, Earth's Treasury, GemsNY, and GemSelect.<br>
+                Today we analyzed gemstone listings from major marketplaces including Gem Rock Auctions, The Natural Sapphire Company, Earth's Treasury, GemsNY, GemSelect, Ricardo.ch, and Interencheres.<br>
                 <strong>Total Stones Analyzed:</strong> {total_found} premium listings.<br>
                 <strong>Best Deal Spotted:</strong> <span style="color: #dc2626; font-weight: 600;">{best_deal}</span>
             </p>
@@ -682,13 +686,16 @@ def main():
     # 2. Query SerpApi for new listings if key is available
     if SERPAPI_KEY:
         queries = [
-            '"unheated" sapphire buy',
-            '"unheated" ruby (Burmese OR Mozambique)',
-            'cobalt blue spinel buy',
-            'alexandrite loose gemstone price',
-            'paraiba tourmaline loose price',
-            'tsavorite garnet loose price',
-            'imperial topaz untreated price'
+            '"unheated" sapphire buy -site:reddit.com',
+            '"unheated" ruby (Burmese OR Mozambique) -site:reddit.com',
+            'cobalt blue spinel buy -site:reddit.com',
+            'alexandrite loose gemstone price -site:reddit.com',
+            'paraiba tourmaline loose price -site:reddit.com',
+            'tsavorite garnet loose price -site:reddit.com',
+            'imperial topaz untreated price -site:reddit.com',
+            # Add Ricardo.ch and Interencheres targeted gemstone searches
+            'gemme OR gemstone site:ricardo.ch -site:reddit.com',
+            'rubis OR saphir OR spinelle OR alexandrite OR paraiba OR tsavorite OR topaze site:interencheres.com -site:reddit.com'
         ]
         
         for q in queries:
