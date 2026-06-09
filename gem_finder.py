@@ -328,23 +328,47 @@ def parse_listing_from_serp(item):
     if not variety:
         return None
 
-    # Parse price
+    # Parse price with support for $, €, EUR, CHF, and Fr.
     price = None
-    price_matches = re.findall(r"\$\s*([0-9,]+(?:\.[0-9]{2})?)", combined_text)
-    if price_matches:
+    # 1. Look for USD ($)
+    usd_match = re.search(r"\$\s*([0-9,]+(?:\.[0-9]{2})?)", combined_text)
+    if usd_match:
         try:
-            # Take the first matched price
-            price_str = price_matches[0].replace(",", "")
-            price = float(price_str)
+            price = float(usd_match.group(1).replace(",", ""))
         except ValueError:
             pass
+            
+    # 2. Look for EUR (€ or EUR)
+    if not price:
+        eur_match = re.search(r"(?:€|EUR)\s*([0-9\s,]+(?:\.[0-9]{2})?)|([0-9\s,]+(?:\.[0-9]{2})?)\s*(?:€|EUR)", combined_text, re.IGNORECASE)
+        if eur_match:
+            val_str = eur_match.group(1) or eur_match.group(2)
+            if val_str:
+                try:
+                    clean_val = val_str.replace(" ", "").replace(",", ".").replace("\xa0", "")
+                    price = float(clean_val) * 1.08  # Approx 1.08 USD per EUR
+                except ValueError:
+                    pass
+                    
+    # 3. Look for CHF (CHF or Fr or SFr)
+    if not price:
+        chf_match = re.search(r"(?:CHF|Fr\.?|SFr\.?)\s*([0-9\s',]+(?:\.[0-9]{2})?)|([0-9\s',]+(?:\.[0-9]{2})?)\s*(?:CHF|Fr\.?|SFr\.?)", combined_text, re.IGNORECASE)
+        if chf_match:
+            val_str = chf_match.group(1) or chf_match.group(2)
+            if val_str:
+                try:
+                    clean_val = val_str.replace(" ", "").replace("'", "").replace(",", ".").replace("\xa0", "")
+                    price = float(clean_val) * 1.10  # Approx 1.10 USD per CHF
+                except ValueError:
+                    pass
 
-    # Parse carat weight
+    # Parse carat weight (supporting dot and comma as decimal separator)
     carat = None
-    carat_matches = re.findall(r"([0-9.]+)\s*(?:ct|carat|cts|carats)", combined_text, re.IGNORECASE)
+    carat_matches = re.findall(r"([0-9]+(?:[.,][0-9]+)?)\s*(?:ct|carat|cts|carats)", combined_text, re.IGNORECASE)
     if carat_matches:
         try:
-            carat = float(carat_matches[0])
+            carat_str = carat_matches[0].replace(",", ".")
+            carat = float(carat_str)
         except ValueError:
             pass
 
