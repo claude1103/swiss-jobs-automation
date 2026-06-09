@@ -309,19 +309,19 @@ def parse_listing_from_serp(item):
     link = item.get("link", "")
     combined_text = f"{title} {snippet}"
 
-    # Determine variety
+    # Determine variety (supporting English, French, and German gemstone names)
     variety = None
-    variety_map = {
-        "sapphire": "Sapphire",
-        "ruby": "Ruby",
-        "spinel": "Spinel",
-        "alexandrite": "Alexandrite",
-        "paraiba": "Tourmaline",
-        "tsavorite": "Garnet",
-        "topaz": "Topaz"
+    variety_keywords = {
+        "Sapphire": ["sapphire", "saphir", "saphire"],
+        "Ruby": ["ruby", "rubis", "rubin"],
+        "Spinel": ["spinel", "spinelle", "spinell"],
+        "Alexandrite": ["alexandrite", "alexandrit"],
+        "Tourmaline": ["paraiba", "tourmaline"],
+        "Garnet": ["tsavorite", "tsavorit", "garnet", "grenat"],
+        "Topaz": ["topaz", "topaze", "topas"]
     }
-    for kw, var in variety_map.items():
-        if kw in combined_text.lower():
+    for var, keywords in variety_keywords.items():
+        if any(kw in combined_text.lower() for kw in keywords):
             variety = var
             break
 
@@ -362,9 +362,9 @@ def parse_listing_from_serp(item):
                 except ValueError:
                     pass
 
-    # Parse carat weight (supporting dot and comma as decimal separator)
+    # Parse carat weight (supporting dot/comma decimals and English/French/German terms)
     carat = None
-    carat_matches = re.findall(r"([0-9]+(?:[.,][0-9]+)?)\s*(?:ct|carat|cts|carats)", combined_text, re.IGNORECASE)
+    carat_matches = re.findall(r"([0-9]+(?:[.,][0-9]+)?)\s*(?:ct|carat|cts|carats|karat|karats|kt)", combined_text, re.IGNORECASE)
     if carat_matches:
         try:
             carat_str = carat_matches[0].replace(",", ".")
@@ -717,9 +717,9 @@ def main():
             'paraiba tourmaline loose price -site:reddit.com',
             'tsavorite garnet loose price -site:reddit.com',
             'imperial topaz untreated price -site:reddit.com',
-            # Add Ricardo.ch and Interencheres targeted gemstone searches
-            'gemme OR gemstone site:ricardo.ch -site:reddit.com',
-            'rubis OR saphir OR spinelle OR alexandrite OR paraiba OR tsavorite OR topaze site:interencheres.com -site:reddit.com'
+            # Targeted Swiss and French sites using German/French gemstone terms
+            '(saphir OR rubin OR spinell OR alexandrit OR paraiba OR tsavorit OR topas OR edelstein) site:ricardo.ch -site:reddit.com',
+            '(rubis OR saphir OR spinelle OR alexandrite OR paraiba OR tsavorite OR topaze) site:interencheres.com -site:reddit.com'
         ]
         
         for q in queries:
