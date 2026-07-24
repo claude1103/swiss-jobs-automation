@@ -1,5 +1,37 @@
 [
   {
+    "gem_name": "Tsavorite and Mint Garnets",
+    "variety": "Garnet",
+    "price_usd": 150.0,
+    "carat_weight": 20080.0,
+    "price_per_carat": 0.007470119521912351,
+    "origin": "Unknown",
+    "treatment_status": "unheated",
+    "seller_name": "Earth's Treasury",
+    "seller_website": "earthstreasury.com",
+    "direct_url": "https://www.earthstreasury.com/product-category/gemstones/all-other-gems/garnet/green-garnet/?srsltid=AfmBOoqUCliMRHqENpOUyt8HNkm8UmvtrfmKGZ4or_PyGVWby9cN5O3y",
+    "tags": [
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
+    "gem_name": "Ab 1 Fr. - 5.33 ct nat\u00fcrl. Rubin Edelstein mit Zertifikat",
+    "variety": "Ruby",
+    "price_usd": 1.1,
+    "carat_weight": 5.33,
+    "price_per_carat": 0.20637898686679176,
+    "origin": "Unknown",
+    "treatment_status": "unheated",
+    "seller_name": "Ricardo.ch",
+    "seller_website": "ricardo.ch",
+    "direct_url": "https://www.ricardo.ch/fr/a/ab-1-fr-533-ct-natuerl-rubin-edelstein-mit-zertifikat-1317593286/?srsltid=AfmBOop7zltIYw0dumw4FRZoGCCN139jp4417PXbxWWk27HReTGBB6sr",
+    "tags": [
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
     "gem_name": "Imperial Topaz Buying Guide",
     "variety": "Topaz",
     "price_usd": 8.0,
@@ -16,18 +48,18 @@
     "is_best_value": true
   },
   {
-    "gem_name": "32.15 Ct. Natural Alexandrite Color-Change Pear Cut ...",
-    "variety": "Alexandrite",
-    "price_usd": 42.45,
-    "carat_weight": 32.15,
-    "price_per_carat": 1.3203732503888026,
-    "origin": "Unknown",
+    "gem_name": "AAA 7.30 Ct+ Natural Brazil Green Paraiba Tourmaline ...",
+    "variety": "Tourmaline",
+    "price_usd": 46.54,
+    "carat_weight": 7.3,
+    "price_per_carat": 6.375342465753425,
+    "origin": "Brazil",
     "treatment_status": "unheated",
     "seller_name": "Ebay",
-    "seller_website": "ebay.com",
-    "direct_url": "https://www.ebay.com/itm/406016318241",
+    "seller_website": "ebay.ca",
+    "direct_url": "https://www.ebay.ca/itm/394496908168",
     "tags": [
-      "Rare Color-Change Alexandrite",
+      "Neon Brazilian Paraiba",
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
@@ -42,25 +74,74 @@
     "treatment_status": "untreated",
     "seller_name": "Naturalgemstones",
     "seller_website": "naturalgemstones.com",
-    "direct_url": "https://naturalgemstones.com/education/pricing-chart-of-topaz/?srsltid=AfmBOoqf3m6XS3Vs0_Cm5R8nKGdGjynW8YhiTJznV6R5s9j8IcJFyigX",
+    "direct_url": "https://naturalgemstones.com/education/pricing-chart-of-topaz/?srsltid=AfmBOopltlisid8TLnknW6ygxuIgCzVr67RQ9PTHJ3MU6LWv89sqUlt9",
     "tags": [
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
   },
   {
-    "gem_name": "Alexandrite Loose - 71 For Sale on 1stDibs",
-    "variety": "Alexandrite",
-    "price_usd": 2345.0,
-    "carat_weight": 67.0,
-    "price_per_carat": 35.0,
+    "gem_name": "Gems\u2013 \"cobalt spinel\"",
+    "variety": "Spinel",
+    "price_usd": 50.0,
+    "carat_weight": 2.0,
+    "price_per_carat": 25.0,
+    "origin": "Vietnam",
+    "treatment_status": "unheated",
+    "seller_name": "Cecileraleydesigns",
+    "seller_website": "cecileraleydesigns.com",
+    "direct_url": "https://www.cecileraleydesigns.com/blogs/gems/tagged/cobalt-spinel",
+    "tags": [
+      "Ultra-Rare Cobalt Blue",
+      "Good Spinel Value",
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
+    "gem_name": "Pricing Chart of Tsavorite Garnet",
+    "variety": "Garnet",
+    "price_usd": 200.0,
+    "carat_weight": 2.0,
+    "price_per_carat": 100.0,
     "origin": "Unknown",
     "treatment_status": "unheated",
-    "seller_name": "1stdibs",
-    "seller_website": "1stdibs.com",
-    "direct_url": "https://www.1stdibs.com/buy/alexandrite-loose/",
+    "seller_name": "Naturalgemstones",
+    "seller_website": "naturalgemstones.com",
+    "direct_url": "https://naturalgemstones.com/education/pricing-chart-of-tsavorite-garnet/?srsltid=AfmBOoqMz8YgreZOoTJl9gG3ZLNtKr_JIZc7wxxUQ-Ft3RA930l0R04X",
     "tags": [
-      "Rare Color-Change Alexandrite",
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
+    "gem_name": "Tsavorite Gemstones",
+    "variety": "Garnet",
+    "price_usd": 216.0,
+    "carat_weight": 0.85,
+    "price_per_carat": 254.11764705882354,
+    "origin": "Unknown",
+    "treatment_status": "unheated",
+    "seller_name": "Jtv",
+    "seller_website": "jtv.com",
+    "direct_url": "https://www.jtv.com/category/gemstones/tsavorite/_/N-2982094726?srsltid=AfmBOorNrKYl_aAzYI1C8vUmzkVri7TGiSXXERUE4c01cYPwyhiW_lgs",
+    "tags": [
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
+    "gem_name": "Mozambique Rubies For Sale",
+    "variety": "Ruby",
+    "price_usd": 1201.0,
+    "carat_weight": 3.1,
+    "price_per_carat": 387.4193548387097,
+    "origin": "Mozambique",
+    "treatment_status": "unheated",
+    "seller_name": "Gem Rock Auctions",
+    "seller_website": "gemrockauctions.com",
+    "direct_url": "https://www.gemrockauctions.com/auctions/ruby/mozambique-rubies?srsltid=AfmBOopI7yyrcyRSS8FZgvVNbsTsaxOWyPxE-guScBWUtb7rCA1DicnZ",
+    "tags": [
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
@@ -206,7 +287,7 @@
     "treatment_status": "unheated",
     "seller_name": "Naturalgemstones",
     "seller_website": "naturalgemstones.com",
-    "direct_url": "https://naturalgemstones.com/cobalt-spinel/?srsltid=AfmBOopVlySZQzIw4k4SSW4Wlb8xw7L_LyWyY6Lj4EtS7qSVXuIDIAJI",
+    "direct_url": "https://naturalgemstones.com/cobalt-spinel/?srsltid=AfmBOoqf39mCfVYt0ADzLRUcvoHFSX0hBXi8U-frC0gboUe7SZuE-8QJ",
     "tags": [
       "Ultra-Rare Cobalt Blue",
       "Good Spinel Value",
@@ -224,7 +305,7 @@
     "treatment_status": "unheated",
     "seller_name": "Gem Rock Auctions",
     "seller_website": "gemrockauctions.com",
-    "direct_url": "https://www.gemrockauctions.com/learn/a-z-of-gemstones/paraiba-tourmaline?srsltid=AfmBOorHKO3vPPCK3NB3yDZOzWYSnT0cOFYDs1mABSi0lTxXVfKOv8Cd",
+    "direct_url": "https://www.gemrockauctions.com/learn/a-z-of-gemstones/paraiba-tourmaline?srsltid=AfmBOorVlNdDfFQ2W4UBni86ls2TjtCP1tZ3iIoEx-f7hZNDmZLT04AZ",
     "tags": [
       "Paraiba Variety",
       "\u2b50 BEST VALUE"
@@ -307,7 +388,7 @@
     "treatment_status": "unheated",
     "seller_name": "Jupitergem",
     "seller_website": "jupitergem.com",
-    "direct_url": "https://jupitergem.com/gemstones/topaz?srsltid=AfmBOoqFG8AqAE4nDZCnXVtUiqTTZy6W1PyAol8jXRV361u-5_HqatRN",
+    "direct_url": "https://jupitergem.com/gemstones/topaz?srsltid=AfmBOooouG8cN4-pYrtXVjum_EbnoNL8MxP0KyQTOQemZ-qMNNtzptDX",
     "tags": [
       "\u2b50 BEST VALUE"
     ],
@@ -358,9 +439,9 @@
     "seller_website": "gemrockauctions.com",
     "direct_url": "https://www.gemrockauctions.com/auctions/698-ct-ruby-mined-in-burma-certified-by-gii",
     "tags": [
-      "Rare Mogok Burma Origin",
+      "\ud83d\udd25 EXTREME DEAL",
       "\u2b50 BEST VALUE",
-      "\ud83d\udd25 EXTREME DEAL"
+      "Rare Mogok Burma Origin"
     ],
     "is_best_value": true
   },
@@ -377,6 +458,22 @@
     "direct_url": "https://www.earthstreasury.com/product/1-83-carat-violet-blue-ceylon-sapphire/",
     "tags": [
       "Premium Ceylon Origin",
+      "\u2b50 BEST VALUE"
+    ],
+    "is_best_value": true
+  },
+  {
+    "gem_name": "Loose Natural Tsavorite Gemstones for Sale",
+    "variety": "Garnet",
+    "price_usd": 18658.0,
+    "carat_weight": 6.03,
+    "price_per_carat": 3094.195688225539,
+    "origin": "Unknown",
+    "treatment_status": "untreated",
+    "seller_name": "GemsNY",
+    "seller_website": "gemsny.com",
+    "direct_url": "https://www.gemsny.com/tsavorite/basic-search?srsltid=AfmBOoqq6Ll4TRWHKpEYG5rKXFqVjAfkdyHPasxR2H5ZaQahePD-O-FL",
+    "tags": [
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
@@ -423,10 +520,10 @@
     "treatment_status": "unheated",
     "seller_name": "Gemstock",
     "seller_website": "gemstock.org",
-    "direct_url": "https://gemstock.org/collection/cobalt-blue-spinel/?srsltid=AfmBOooVlc7cDnOboGN6aawpX5YUvqg5eCCxnpqkHn9vNDLsl7r7zh0h",
+    "direct_url": "https://gemstock.org/collection/cobalt-blue-spinel/?srsltid=AfmBOop1ArcGPYgObbNCSkSPFukaPlL7JMzzmQzy40ZX4sPIWqbAE6vi",
     "tags": [
-      "Tanzanian Spinel",
       "Ultra-Rare Cobalt Blue",
+      "Tanzanian Spinel",
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
@@ -441,7 +538,7 @@
     "treatment_status": "unheated",
     "seller_name": "Naturalgemstones",
     "seller_website": "naturalgemstones.com",
-    "direct_url": "https://naturalgemstones.com/alexandrite/?srsltid=AfmBOopRMhqT6rCgMKtC8c9NmsZbLfHWAG3nc5QqDIh5_Sotihw-q8-F",
+    "direct_url": "https://naturalgemstones.com/alexandrite/?srsltid=AfmBOoowlyw_PKRWhtBdSu_gjSd3udPx8mwEu_AYVsZ4yb8a32nZWXuH",
     "tags": [
       "Rare Color-Change Alexandrite",
       "\u2b50 BEST VALUE"
@@ -491,10 +588,10 @@
     "treatment_status": "unheated",
     "seller_name": "Gemfix",
     "seller_website": "gemfix.com",
-    "direct_url": "https://gemfix.com/gem-category/ruby?srsltid=AfmBOorL7cU0OaWKnj-Oqh5IZ2Wpt5Z1CKHA6awK1d4ts7PnYxYCUaml",
+    "direct_url": "https://gemfix.com/gem-category/ruby?srsltid=AfmBOopDlfVrLG_n_7t2yOS_j2tu5-rJHEMoFiFJ1S4UGgYJn3ESbEMr",
     "tags": [
-      "Rare Mogok Burma Origin",
-      "\u2b50 BEST VALUE"
+      "\u2b50 BEST VALUE",
+      "Rare Mogok Burma Origin"
     ],
     "is_best_value": true
   },
@@ -540,25 +637,9 @@
     "treatment_status": "unheated",
     "seller_name": "GemsNY",
     "seller_website": "gemsny.com",
-    "direct_url": "https://www.gemsny.com/paraiba-tourmaline/basic-search?srsltid=AfmBOop8O9RuiciqoP89UCxpioqdxrmEW3YyVgceJTIiOey9zC5YSJzh",
+    "direct_url": "https://www.gemsny.com/paraiba-tourmaline/basic-search?srsltid=AfmBOoqBRXGI09ACE6tpOMGuetj8OkFB-Q12cRv2M6xNcj63PlGKCZUn",
     "tags": [
       "Paraiba Variety",
-      "\u2b50 BEST VALUE"
-    ],
-    "is_best_value": true
-  },
-  {
-    "gem_name": "Shop Natural Spinels Online",
-    "variety": "Spinel",
-    "price_usd": 5801.0,
-    "carat_weight": 0.54,
-    "price_per_carat": 10742.592592592591,
-    "origin": "Vietnam",
-    "treatment_status": "unheated",
-    "seller_name": "Jupitergem",
-    "seller_website": "jupitergem.com",
-    "direct_url": "https://jupitergem.com/gemstones/spinel?srsltid=AfmBOoq2SlOSUqtAvxuzg7jHu5WDI-YvHDf9Tpv4oVFBsk97qIGmSuU8",
-    "tags": [
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
@@ -573,7 +654,7 @@
     "treatment_status": "unheated",
     "seller_name": "Paraibainternational",
     "seller_website": "paraibainternational.com",
-    "direct_url": "https://www.paraibainternational.com/collections/paraiba-tourmaline?srsltid=AfmBOork4cvMksTueDnJuc54DLWZTEgi3KgnDJ6QvaBUF-mOFk_Z6uDr",
+    "direct_url": "https://www.paraibainternational.com/collections/paraiba-tourmaline?srsltid=AfmBOorpBy1yKSEsbYRlHg9wgbIon_gOBsq9x7efgCeH7Zp59uOTR3VP",
     "tags": [
       "Paraiba Variety",
       "\u2b50 BEST VALUE"
@@ -581,35 +662,17 @@
     "is_best_value": true
   },
   {
-    "gem_name": "Paraiba Tourmaline Gemstones",
-    "variety": "Tourmaline",
-    "price_usd": 90480.0,
-    "carat_weight": 1.16,
-    "price_per_carat": 78000.0,
-    "origin": "Unknown",
-    "treatment_status": "unheated",
-    "seller_name": "Naturalgemstones",
-    "seller_website": "naturalgemstones.com",
-    "direct_url": "https://naturalgemstones.com/paraiba-tourmaline/?srsltid=AfmBOoruD6l0FeYTRydnSAwGJpjVEyNGKBcsvzl_POfGIm0YLjWRCBJy",
-    "tags": [
-      "Paraiba Variety",
-      "\u2b50 BEST VALUE"
-    ],
-    "is_best_value": true
-  },
-  {
-    "gem_name": "Burmese Ruby",
+    "gem_name": "Ruby from Mozambique",
     "variety": "Ruby",
-    "price_usd": 704900.0,
-    "carat_weight": 5.27,
-    "price_per_carat": 133757.11574952563,
-    "origin": "Burma",
+    "price_usd": 80000.0,
+    "carat_weight": 3.03,
+    "price_per_carat": 26402.640264026406,
+    "origin": "Mozambique",
     "treatment_status": "unheated",
     "seller_name": "Gemstock",
     "seller_website": "gemstock.org",
-    "direct_url": "https://gemstock.org/collection/ruby/burma/?srsltid=AfmBOopSex-v7onWMAgA0KWp8ciXIiF34M-Oh7nBUT-O94cNR7DWTrP1",
+    "direct_url": "https://gemstock.org/collection/ruby/mozambique/?srsltid=AfmBOoooPF-ZP4szb-H3gjEBeccUwkVOlqoit1WHwy-jloPyFzw_5OxT",
     "tags": [
-      "Rare Mogok Burma Origin",
       "\u2b50 BEST VALUE"
     ],
     "is_best_value": true
