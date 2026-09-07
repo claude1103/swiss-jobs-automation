@@ -1,5 +1,5 @@
 # 🇨🇭 Swiss Regulatory & AI Jobs Report
-Last updated: `2026-08-31 18:01:38 (Geneva Time)`
+Last updated: `2026-09-07 16:07:53 (Geneva Time)`
 
 Found **15** relevant job postings in Geneva, Vaud, and Fribourg.
 
@@ -7,90 +7,90 @@ Found **15** relevant job postings in Geneva, Vaud, and Fribourg.
 ### 1. Operational Tax Officer - Job Offer
 **🏢 Company:** Banque Pictet & Cie SA | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
 **📝 Description:** We support private clients with comprehensive tax reporting, ensuring the Bank's compliance with global tax regulations (FATCA/QI, CRS, Swiss ...
-[🔗 View & Apply here](https://www.jobs.ch/en/vacancies/detail/b8813972-7ffc-4a6e-98ba-f4628855c512/)
+[🔗 View & Apply here](https://www.jobs.ch/en/vacancies/detail/8ef69bca-aa94-4a77-b361-c73a180f2abd/)
 
 ---
-### 2. Tax Compliance Officer FATCA CRS
-**🏢 Company:** coni+partner AG | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Tax Compliance Officer FATCA CRS · Karrierestufe. Berufserfahren · Beschäftigungsverhältnis. Vollzeit · Tätigkeitsbereich. Finanzwesen · Branchen.
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/tax-compliance-officer-fatca-crs-at-coni%2Bpartner-ag-4364428906)
+### 2. (Assistant) Manager
+**🏢 Company:** Business Tax- Financial Services | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
+**📝 Description:** Client tax reporting regimes such as the US FATCA, the OECD Automatic Exchange of Information (CRS) and Crypto Assets Reporting Framework (CARF);
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/assistant-manager-business-tax-financial-services-industries-at-deloitte-4339266831)
 
 ---
-### 3. Regulatory Tax Compliance Officer
-**🏢 Company:** J. Safra Sarasin | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** /FATCA Expert and Regulatory Tax Compliance Officer. Foreign Accounts Tax Compliance Act (FATCA) regulations and provide expert advice in these fields. Geneva ...
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/regulatory-tax-compliance-officer-at-j-safra-sarasin-4358333479)
+### 3. CLM Manager (H/F)
+**🏢 Company:** Edmond de Rothschild | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
+**📝 Description:** Apply and interpret KYC/AML, FATCA/CRS, sanctions, and other relevant regulations ... Geneva, Geneva, Switzerland 1 week ago. Senior Legal & ...
+[🔗 View & Apply here](https://www.linkedin.com/jobs/view/4453441432/)
 
 ---
-### 4. PhD Student
-**🏢 Company:** Legal AI in Freiburg, Freiburg, Schweiz | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** PhD Student - Legal AI Hochschule. Deployed AI Engineer. Law Fully, Valais, Schweiz Vor 3 Tagen Data Protection & Privacy Specialist
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/phd-student-legal-ai-at-college-of-engineering-and-architecture-of-fribourg-4400810778)
+### 4. Middle Officer
+**🏢 Company:** Operational Tax Services in Genf, Schweiz | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
+**📝 Description:** Act as a point of contact for FATCA, QI and CRS related inquiries, providing in-depth analysis ;; Collaborate with various departments to assess complex cases ; ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/middle-officer-operational-tax-services-at-indosuez-wealth-management-4196095842)
 
 ---
-### 5. (Senior) Consultant
-**🏢 Company:** Tax Financial Services | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Knowledge on tax transparency topics (FATCA, QI, CRS, ...) is considered as a plus Ideally, a first experience in Swiss and international tax law
-[🔗 View & Apply here](https://www.jobs.ch/en/vacancies/detail/f291e924-111b-4a88-9a43-4b0c718327ec/)
+### 5. Client Documentation Specialist
+**🏢 Company:** Union Bancaire Privée | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
+**📝 Description:** A smooth documents process flow between the different departments of the bank, Review the documentation received from the clients … and FATCA/QI rules) Geneva ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/client-documentation-specialist-at-ubp-union-bancaire-priv%C3%A9e-4346901273)
 
 ---
-### 6. AI
-**🏢 Company:** the tipping point: From ambition to accountability | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Responsible AI is not just about compliance – it's about ensuring that innovation, governance, and ethics move forward together. Take the next step toward ...
-[🔗 View & Apply here](https://www.pwc.ch/en/insights/digital/responsible-ai-2025.html)
-
----
-### 7. Tax Specialist (FATCA QI CRS) for a Private Bank in Geneva (9
+### 6. Tax Advisor (6 months fixed term contract) bei Pictet Group
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** For one of our clients, a Private Bank based in Geneva, we are seeking for a Tax Specialist (FATCA QI CRS) . The successful candidate will be responsible ...
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/tax-specialist-fatca-qi-crs-for-a-private-bank-in-geneva-9-months-at-lexton-stanley-4145085010)
+**📝 Description:** We provide private clients with comprehensive tax reporting, while ensuring the Bank complies with global tax regulations (FATCA/QI, CRS, Swiss and EU tax ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/tax-advisor-6-months-fixed-term-contract-at-pictet-group-4449382703)
 
 ---
-### 8. FATCA, CRS & QI Officer bei Pictet Group
+### 7. JPMorganChase sucht US Tax Officer Analyst in Genf
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Bewerben Sie sich für die Stelle als FATCA, CRS & QI Officer bei Pictet Group in Genf, Genf, Schweiz. Position mit Vollzeit Management.
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/fatca-crs-qi-officer-at-pictet-group-4150330405)
+**📝 Description:** Tax Operations is recruiting for an US Tax specialist level candidate to join their Operations group based in Geneva. familiarity with US tax forms (FATCA QI)
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/us-tax-officer-analyst-at-jpmorganchase-4368396001)
 
 ---
-### 9. Tax Advisor (6 months fixed term contract)
+### 8. collaborateur client onboarding & changements de
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** We provide private clients with comprehensive tax reporting, while ensuring the Bank complies with global tax regulations (FATCA/QI, CRS, Swiss ...
-[🔗 View & Apply here](https://www.jobs.ch/en/vacancies/detail/6b9d7ae1-cfcb-4d9b-ac8b-2ef51da90b12/)
+**📝 Description:** Analyse de la cohérence des documents fiscaux (FATCA, CRS, QI...) FATCA, QI, CRS) Assistant Relationship Manager, Geneva, 100% (f/m/d) Assistant
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/collaborateur-client-onboarding-changements-de-circonstances-h-f-at-edmond-de-rothschild-4348093592)
 
 ---
-### 10. Reporting and due diligence for family offices
+### 9. Pictet Group recrute pour des postes de Tax Expert
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** FATCA primarily aims to identify US persons. It requires financial institutions worldwide to report accounts held by US persons to the US tax ...
-[🔗 View & Apply here](https://www.pwc.ch/en/insights/family-business-and-sme/reporting-due-diligence-family-office.html)
+**📝 Description:** This role involves ensuring that any tax changes (FATCA, CRS, VAT, withholding tax, etc.) are identified, communicated, and implemented effectively in ...
+[🔗 View & Apply here](https://lu.linkedin.com/jobs/view/tax-expert-operations-at-pictet-group-4387973814)
 
 ---
-### 11. Tax Advisor FATCA & AEOI Compliance Fund Investment
+### 10. Fund Oversight and Product Governance Officer
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Our client is an -functional tax compliance advisory. Acting as an expert in FATCA and AEOI tax compliance .: +41 44 254 90 10
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/tax-advisor-fatca-aeoi-compliance-fund-investment-at-coni%2Bpartner-ag-4451036652)
+**📝 Description:** Our offices are located in Geneva, Coordinate FATCA/CRS filings, RBO and RCS registrations, etc. Lead the organization of board meetings for GPs, HoldCos, ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/fund-oversight-and-product-governance-officer-at-mirabaud-group-4303983148)
 
 ---
-### 12. AI & Data Consultant (Tax & Legal innovation)
+### 11. COMPLIANCE & LEGAL OFFICER – PRIVATE EQUITY
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Our mission is to design, build, and scale AI solutions that redefine how legal, compliance, and tax services are delivered. Geneva Avenue Giuseppe-Motta
-[🔗 View & Apply here](https://jobs.pwc.ch/job-vacancies/senior-associate-ai-data-consultant-tax-legal-innovation/9fa43b3e-bf83-4f14-8064-bfab2f562dc0)
+**📝 Description:** Maintain CRS and FATCA documentation and reporting statuses. Oversee staff declarations relating to conflicts of interest and personal account dealings ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/compliance-legal-officer-%E2%80%93-private-equity-lotus-partners-at-jobs-via-efinancialcareers-4365283710)
 
 ---
-### 13. Head of AI Platform (London, Geneva or Zurich) bei UBP
+### 12. Agentarius sucht Legal & compliance in Bulle FR, Freiburg
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** As Head of AI Platform, you own AI as a product. with IT, security and compliance. Compliance, Asset Management, technology, data and ...
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/head-of-ai-platform-london-geneva-or-zurich-at-ubp-union-bancaire-priv%C3%A9e-4445715008)
+**📝 Description:** Legal and compliance teams use AI for first-pass contract review, clause-by-clause comparison, policy and template drafting, and summarising ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/legal-compliance-at-agentarius-4447362100)
 
 ---
-### 14. Legal Operations & Artificial Intelligence Intern
+### 13. (Senior) Manager Tax Technology – Tax & Legal
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** AI is transforming business, legal and innovation landscapes? Trading entities are based in Geneva, Paris, Houston and Singapore. Generative AI, automation and ...
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/legal-operations-artificial-intelligence-intern-at-totalenergies-4433092294)
+**📝 Description:** Your main focus will be on technology for direct tax process challenges, including tax accounting, BEPS 2.0 / Pillar. AI & Legal Technology Officer AI
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/senior-manager-tax-technology-%E2%80%93-tax-legal-at-deloitte-4260841444)
 
 ---
-### 15. Legal Counsel, Data Protection bei MSC Mediterranean
+### 14. Laine sucht Applied AI Engineer in Genf, Genf, Schweiz
 **🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
-**📝 Description:** Provide legal support for digital initiatives, including projects involving artificial intelligence and cybersecurity. Work closely with IT and cybersecurity ...
-[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/legal-counsel-data-protection-at-msc-mediterranean-shipping-company-4282800360)
+**📝 Description:** SA is a LegalTech company developing an international terminal that automates legal drafting through generative AI and machine learning,
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/applied-ai-engineer-at-laine-4231953292)
+
+---
+### 15. Legal Intern bei Nestlé — Vevey, Waadt, Schweiz
+**🏢 Company:** Unknown Company | **📍 Location:** Geneva / Vaud / Fribourg (Google Search)
+**📝 Description:** Exposure to cutting‑edge digital, data and AI law topics within a global organization. Strong mentorship for your professional growth. Professional network ...
+[🔗 View & Apply here](https://ch.linkedin.com/jobs/view/legal-intern-at-nestl%C3%A9-4408255409)
 
 ---
